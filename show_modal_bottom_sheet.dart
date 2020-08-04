@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
+///https://zhuanlan.zhihu.com/p/166577505
+///
 class CompanyInformationWidget extends StatefulWidget {
   @override
   _CompanyInformationWidgetState createState() => _CompanyInformationWidgetState();
